@@ -1,5 +1,6 @@
 # algoritmaproje-devi_dilanalizi
 ALGOTRİTMA VE PROGRAMLAMA DERSİ PROJE ÖDEVİ .DİL ANALİZİ PROJESI
+## projeyi hazırlayan: HÜMEYRA ÇİMEN 
 ## projenin amacı:
 **Kullanıcıdan metin alarak metnin hangi dil frekans değerlerine daha yakın olduğunun matematiksel frekans değerleri ile belirlenip tahmin edilen dilin kullanıcıya döndürülmesini amaçlayarak bu projeyi oluşturdum.**</br>
 
@@ -16,4 +17,5 @@ ALGOTRİTMA VE PROGRAMLAMA DERSİ PROJE ÖDEVİ .DİL ANALİZİ PROJESI
 
 ###### projede dördüncü adım:
 **son aşamada elde ettiğim çarpım toplamlarını kıyaslayarak dili çözdüm**</br>
+ 
  
