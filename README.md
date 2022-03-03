@@ -1,4 +1,4 @@
-# algoritmaproje-devi_dilanalizi
+# algoritma_programlama_proje-odevi_dılanalızi
 ALGOTRİTMA VE PROGRAMLAMA DERSİ PROJE ÖDEVİ .DİL ANALİZİ PROJESI
 ## projeyi hazırlayan: HÜMEYRA ÇİMEN 
 ## projenin amacı:
